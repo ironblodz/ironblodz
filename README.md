@@ -22,6 +22,6 @@
   
 <div> 
  
-   ![Snake animation](https://github.com/ironblodz/ironblodz/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/ironblodz/ironblodz/blob/main/.github/workflows/cobrinha.yml)
  
 </div>
