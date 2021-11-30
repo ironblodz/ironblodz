@@ -1,11 +1,5 @@
 ### Olá! Eu sou o João Peres, estudante do IPL 👋
 
-- 🔭 Estou a trabalhar com back-end 
-- 🌱 A estudar php
-- 👯 Estou a colaborar num projeto **Wordpress** e **Laravel**
-- 😄 Fico feliz em programar 
-- 🔥 Comecei a trabalhar com programação web à 1 ano
-
 <div align="center">
   <a href="https://github.com/ironblodz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ironblodz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
