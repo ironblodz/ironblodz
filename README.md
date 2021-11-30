@@ -1,4 +1,4 @@
-### Olá! Eu sou o João Peres, estudante do IPL 👋
+### Olá! Eu sou o João Peres, estudante de Desenvolvimento Web e Multimédia, no IPL 👋
 
 
 <div align="center">
